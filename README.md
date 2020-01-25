@@ -70,8 +70,8 @@ Things todo in admin side:
    and may be totally incorrect!
 
 Files not translated:
-client -> languages/finnish/modules/payment/authorizenet.php.php
-client -> languages/finnish/modules/payment/authorizenet_aim.php
+. client -> languages/finnish/modules/payment/authorizenet.php.php
+. client -> languages/finnish/modules/payment/authorizenet_aim.php
 client -> languages/finnish/modules/payment/firstdata_hco.php
 client -> languages/finnish/modules/payment/payeezyjszc.php
 client -> languages/finnish/modules/payment/paypal.php
