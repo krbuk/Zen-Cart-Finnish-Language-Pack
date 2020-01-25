@@ -40,9 +40,7 @@ This package has been tested well, but errors are quaranteed.
 -------------------------------------------------------------
 INSTALL:
 
-Move the includes/ and admin/ directory (and sub dirs) to
-your ZenCart root and add the language in the admin pages
-(refer to ZenCart documentation on how to do this).
+Move the includes/ and admin/ directory (and sub dirs) to your ZenCart root and add the language in the admin pages (refer to ZenCart documentation on how to do this).
 
 Move the buttons/ directory to your templates button directory.
 
@@ -58,24 +56,22 @@ Remember to edit the define_pages and customize the E-mails if neccessary.
 -------------------------------------------------------------
 CURRENT STATUS:
 
-98% of all files are translated. The ones that are not translated are mostly shipping/payment modules
-not available in Finland anyway.
+98% of all files are translated. The ones that are not translated are mostly shipping/payment modules not available in Finland anyway.
 
 Things todo in catalog side:
  - Mostly spell checking and checking that everything is translated correctly
 
 Things todo in admin side:
  - Further spell checking needed
- - Some of the strings were translated without prior knowledge of how certain functions work
-   and may be totally incorrect!
+ - Some of the strings were translated without prior knowledge of how certain functions work and may be totally incorrect!
 
 Files not translated:
 - client -> languages/finnish/modules/payment/authorizenet.php.php
 - client -> languages/finnish/modules/payment/authorizenet_aim.php
 * client -> languages/finnish/modules/payment/firstdata_hco.php
 * client -> languages/finnish/modules/payment/payeezyjszc.php
-/ client -> languages/finnish/modules/payment/paypal.php
-client -> languages/finnish/modules/payment/paypaldp.php
-client -> languages/finnish/modules/payment/paypalwpp.php
-client -> languages/finnish/modules/payment/square.php
+* client -> languages/finnish/modules/payment/paypal.php
+* client -> languages/finnish/modules/payment/paypaldp.php
+* client -> languages/finnish/modules/payment/paypalwpp.php
+* client -> languages/finnish/modules/payment/square.php
 
