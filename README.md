@@ -72,9 +72,9 @@ Things todo in admin side:
 Files not translated:
 - client -> languages/finnish/modules/payment/authorizenet.php.php
 - client -> languages/finnish/modules/payment/authorizenet_aim.php
-, client -> languages/finnish/modules/payment/firstdata_hco.php
-client -> languages/finnish/modules/payment/payeezyjszc.php
-client -> languages/finnish/modules/payment/paypal.php
+* client -> languages/finnish/modules/payment/firstdata_hco.php
+* client -> languages/finnish/modules/payment/payeezyjszc.php
+/ client -> languages/finnish/modules/payment/paypal.php
 client -> languages/finnish/modules/payment/paypaldp.php
 client -> languages/finnish/modules/payment/paypalwpp.php
 client -> languages/finnish/modules/payment/square.php
