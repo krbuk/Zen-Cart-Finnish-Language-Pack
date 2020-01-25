@@ -1,15 +1,6 @@
 # Zen Cart Finnish Language Pack 
 Finnish language pack
 
-Thanks to:
- -> Translated by JNT Finland Oy - Pasi Rajala <pasi.rajala@jnt-finland.fi>  for the translation for 1.5.0 version
- -> Text partially verified by Marika Rajala <mia-marika.rajala@jnt-finland.fi>
- -> FrilansReklam for the translation for 1.3.9 version. (Thou this release is not based on their work)
- -> Joni Borgström <joni.borgstrom@it-idea.fi> 
- -> Laeticia @ ZenCart Forum
- -> Ricambi Heikka (www.heikka.fi) for finding a too obvious spelling error!
- -> Moto-Häme (www.moto-hame.fi) for pointing out some encoding errors.
-
 Releases:
  - ZC 1.5.6c rev. 4 Released 24.07.2019
  - ZC 1.5.5  rev. 3 Released 01.01.2018
