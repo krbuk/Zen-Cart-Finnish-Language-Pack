@@ -1,0 +1,36 @@
+<?php
+// Finnish translation Ver. 1.5.7 by Nida Verkkopalvelu Oy (Ihsan Yuz) <ihsan@nida.fi> 
+define('HEADING_TITLE', 'Laajennus hallinta');
+define('TABLE_HEADING_ACTION', 'Toiminnot');
+define('TABLE_HEADING_KEY', 'Laajennus avain');
+define('TABLE_HEADING_NAME', 'Nimi');
+define('TABLE_HEADING_STATUS', 'Tila');
+define('TABLE_HEADING_FILE_SPACE', 'Tiedostotila');
+define('TABLE_HEADING_VERSION_INSTALLED', 'Versio');
+define('TEXT_INSTALL', 'Asentaa');
+define('TEXT_UNINSTALL', 'Poista asennus');
+define('TEXT_DISABLE', 'Poista käytöstä');
+define('TEXT_ENABLE', 'Ota käyttöön');
+define('TEXT_CLEANUP', 'Puhdistaa');
+define('TEXT_UPGRADE', 'Päivitä');
+define('TEXT_CONFIRM', 'Vahvistaa');
+define('TEXT_INFO_DESCRIPTION', 'Laajennuksen kuvaus:');
+define('TEXT_INFO_CLEANUP', 'Poista ei-toivotut laajennusversion hakemistot');
+define('TEXT_INFO_SELECT_CLEAN', 'Valitse versiot, jotka haluat poistaa');
+define('TEXT_INSTALLED_ENABLED', 'Asennettu (käytössä)');
+define('TEXT_INSTALLED_DISABLED', 'Asennettu (pois käytöstä)');
+define('TEXT_NOT_INSTALLED', 'Ei asennettu');
+define('TEXT_INSTALL_SUCCESS', 'Laajennuksen asennus onnistui');
+define('TEXT_UNINSTALL_SUCCESS', 'Laajennuksen poista asennus onnistui');
+define('TEXT_DISABLE_SUCCESS', 'Laajennus poistettu käytöstä');
+define('TEXT_ENABLE_SUCCESS', 'Laajennus onnistui');
+define('TEXT_UPGRADE_AVAILABLE', 'Päivitys saatavilla');
+define('TEXT_VERSION_INSTALLED', 'Versio asennettu: %s');
+define('TEXT_CONFIRM_UNINSTALL', 'Haluatko varmasti poistaa tämän laajennuksen?');
+define('TEXT_CONFIRM_UPGRADE', 'Haluatko varmasti päivittää tämän laajennuksen?');
+define('TEXT_CONFIRM_DISABLE', 'Haluatko varmasti poistaa tämän laajennuksen käytöstä?');
+define('TEXT_CONFIRM_ENABLE', 'Haluatko varmasti ottaa tämän laajennuksen käyttöön?');
+define('TEXT_INFO_UPGRADE', 'Valitse päivitettävä versio.');
+define('TEXT_INFO_UPGRADE_CONFIRM', 'Päivitä versio %s');
+define('TEXT_INFO_UPGRADE_WARNING', 'Varoitus: blah blah');
+define('TEXT_INFO_CONFIRM_CLEAN', 'Vahvista versio hakemistoja puhdas / poista');
