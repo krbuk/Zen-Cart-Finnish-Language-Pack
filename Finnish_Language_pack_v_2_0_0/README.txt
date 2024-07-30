@@ -4,7 +4,7 @@ For ZenCart version 2.0.0
 Revision 6 (30.07.2024)
 Released under GNU General Public License, version 2 (GPL v.2)
 
-Finnish translation update v2.0.7 by Nida Verkkopalvelu Oy www.nida.fi (Ihsan Yuz) <ihsan@nida.fi>
+Finnish translation update v2.0.0 by Nida Verkkopalvelu Oy www.nida.fi (Ihsan Yuz) <ihsan@nida.fi>
 
 Thanks to:
  -> Translated by JNT Finland Oy - Pasi Rajala <pasi.rajala@jnt-finland.fi> for the translation for 1.5.0 version 
