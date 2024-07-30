@@ -1,0 +1,72 @@
+<?php
+/**
+ * @copyright Copyright 2003-2024 Zen Cart Development Team
+ * @copyright Portions Copyright 2003 osCommerce
+ * @license http://www.zen-cart.com/license/2_0.txt GNU Public License V2.0
+ * @version $Id: lat9 2023 Dec 10 Modified in v2.0.0-alpha1 $
+ * Finnish translation v2.0.0 by Nida Verkkopalvelu Oy (Ihsan Yuz) <ihsan@nida.fi>
+*/
+
+$define = [
+    'HEADING_TITLE' => 'Asiakkaat',
+    'TABLE_HEADING_FIRSTNAME' => 'Etunimi',
+    'TABLE_HEADING_LASTNAME' => 'Sukunimi',
+    'TABLE_HEADING_ACCOUNT_CREATED' => 'Tili luotu',
+    'TABLE_HEADING_LOGIN' => 'Viimeksi kirjautunut',
+    'TABLE_HEADING_REGISTRATION_IP' => 'Rekisteröinti IP',
+    'TABLE_HEADING_PRICING_GROUP' => 'Hinnoitteluryhmä',
+    'TABLE_HEADING_AUTHORIZATION_APPROVAL' => 'Valtuutettu',
+    'TABLE_HEADING_GV_AMOUNT' => 'Asiakastili',
+    'TEXT_DATE_ACCOUNT_CREATED' => 'Tili luotu:',
+    'TEXT_DATE_ACCOUNT_LAST_MODIFIED' => 'Muokattu:',
+    'TEXT_INFO_DATE_LAST_LOGON' => 'Viimeksi kirjautunut:',
+    'TEXT_INFO_NUMBER_OF_LOGONS' => 'Sisäänkirjautumiskertoja:',
+    'TEXT_LAST_LOGIN_IP' => 'Viimeksi kirjautunut IP:',
+    'TEXT_REGISTRATION_IP' => 'Rekisteröinti IP:',
+    'TEXT_INFO_COUNTRY' => 'Valtio:',
+    'TEXT_INFO_NUMBER_OF_REVIEWS' => 'Arvostelujen määrä:',
+    'TEXT_DELETE_INTRO' => 'Haluatko varmasti poistaa tämän asiakkaan?<br>"Unohda vain" - Poista tunnistettavissa olevat henkilötiedot asiakastietueesta.<br>"Poista" - Poista asiakastietue tietokannasta.',
+    'TEXT_DELETE_REVIEWS' => 'Poista asiakkaan %s arvostelut',
+    'TEXT_INFO_HEADING_DELETE_CUSTOMER' => 'Poista asiakas',
+    'TYPE_BELOW' => 'Kirjoita alle',
+    'TEXT_INFO_NUMBER_OF_ORDERS' => 'Tilauksien määrä:',
+    'TEXT_INFO_LIFETIME_VALUE' => 'Kaikki tilauksien määrä:',
+    'TEXT_INFO_LAST_ORDER' => 'Viimeksi tilannut:',
+    'TEXT_INFO_ORDERS_TOTAL' => 'Yhteensä:',
+    'CUSTOMERS_REFERRAL' => 'Asiakkaan suositukset<br>ensimmäinen alennuskuponki',
+    'TEXT_INFO_GV_AMOUNT' => 'Asiakastili',
+    'ENTRY_NONE' => 'Ei yhtään',
+    'TABLE_HEADING_COMPANY' => 'Yritys',
+    'TEXT_INFO_HEADING_RESET_CUSTOMER_PASSWORD' => 'Asiakkaan salasana vaihto',
+    'TEXT_PWDRESET_INTRO' => 'Nollata salasanan tälle asiakkaalle, kirjoita uusi salasana ja vahvista se alla. Uuden salasanan on vastattava asiakkaille asetettuja salasana.',
+    'TEXT_CUST_NEW_PASSWORD' => 'Uusi salasana:',
+    'TEXT_CUST_CONFIRM_PASSWORD' => 'Vahvista salasana:',
+    'ERROR_PWD_TOO_SHORT' => 'Virhe: Salasana on lyhyempi kuin tässä tallennuksessa määritettyjen merkkien määrä.',
+    'SUCCESS_PASSWORD_UPDATED' => 'Salasana päivitetty.',
+    'EMAIL_CUSTOMER_PWD_CHANGE_MESSAGE' => 'Salasanasi on muuttanut uusi salasana on:  ',
+    'EMAIL_CUSTOMER_PWD_CHANGE_SUBJECT' => 'Asiakkaan salasana vaihto',
+    'EMAIL_CUSTOMER_PWD_CHANGE_MESSAGE_FOR_ADMIN' => 'Olet vaihtanut asiakkaan salasanan: ' . "\n" . '%s' . "\n\n" . 'Järjestelmänvalvoja ID: %s',
+    'CUSTOMERS_AUTHORIZATION' => 'Asiakkaan tunnuksen hyväksymisen tila',
+    'CUSTOMERS_AUTHORIZATION_0' => 'Hyväksytty',
+    'CUSTOMERS_AUTHORIZATION_1' => 'Odottaa - Ei voi selata sivuja',
+    'CUSTOMERS_AUTHORIZATION_2' => 'Odottaa - Voi selata sivuja, mutta ei näe hintoja',
+    'CUSTOMERS_AUTHORIZATION_3' => 'Odottaa - Voi selata sivuja ja näkee hinnat, mutta ei voi ostaa mitään',
+    'CUSTOMERS_AUTHORIZATION_4' => 'Estetty - Ei voi kirjautua sisään tai ostaa.',
+    'ERROR_CUSTOMER_APPROVAL_CORRECTION1' => 'Varoitus: Kauppasi vaatii asiakkaan hyväksymistä ennenkuin asiakas voi selata sivuja. Asiakas on asetettu tilaan: Odottaa hyväskymistä - Ei voi selata sivuja',
+    'ERROR_CUSTOMER_APPROVAL_CORRECTION2' => 'Varoitus: Kauppasi vaatii asiakkaan hyväksymistä ennenkuin asiakas voi nähdä tuotteiden hinnat. Asiakas on asetettu tilaan: Odottaa hyväskymistä - Voi selata sivuja, mutta ei näe hintoja',
+    'EMAIL_CUSTOMER_STATUS_CHANGE_MESSAGE' => 'Asiakastunnuksesi tila on päivitetty. Kiitos asioinnista kanssamme.',
+    'EMAIL_CUSTOMER_STATUS_CHANGE_SUBJECT' => 'Asiakastunnuksen tila on päivitetty',
+    'ADDRESS_BOOK_TITLE' => 'Osoitekirjan sisältö',
+    'PRIMARY_ADDRESS' => '(ensisijainen osoite)',
+    'TEXT_MAXIMUM_ENTRIES' => '<span class="coming"><strong>HUOM:</strong></span> Osoitekirjassa voi olla enintään %s osoitetta.',
+    'TEXT_INFO_ADDRESS_BOOK_COUNT' => ' | <a href="%s">%s Kirjaukset</a>',
+    'TEXT_INFO_ADDRESS_BOOK_COUNT_SINGLE' => '',
+    'EMP_BUTTON_PLACEORDER_ALT' => 'Tee tilaus tälle asiakkaalle',
+    'EMP_BUTTON_PLACEORDER' => 'Tee tilaus',
+    'TEXT_CUSTOMER_GROUPS' => 'Asiakasryhmät',
+    'TABLE_HEADING_WHOLESALE_LEVEL' => 'Tukkumyyntitaso',
+    'TEXT_WHOLESALE_LEVEL' => 'Tukkumyyntitaso:',
+    'HELPTEXT_WHOLESALE_LEVEL' => 'Anna 0 vähittäismyyntiasiakkaille tai tukkumyyntihintatasolle. Asiakkaalla voi olla joko tukkuhintataso tai osa alennushinnoitteluryhmää, mutta ei molempia.',
+];
+
+return $define;
