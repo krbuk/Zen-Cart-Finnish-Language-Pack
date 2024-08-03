@@ -15,6 +15,7 @@ $define = [
     'TABLE_HEADING_FILESIZE' => 'Tiedoston koko (bytes)',
     'TABLE_HEADING_DELETE' => 'Poistaa?',
     'TABLE_HEADING_ACTION' => 'Toiminta',
+    'BUTTON_INVERT_SELECTED' => 'Valitse kaikki',
     'BUTTON_DELETE_SELECTED' => 'Poista valitut',
     'DELETE_SELECTED_ALT' => 'Poista kaikki valitut tiedostot',
     'BUTTON_DELETE_ALL' => 'Poista kaikki',
