@@ -11,7 +11,7 @@ $define = [
     'TEXT_NO_PAYMENT_OPTIONS_AVAILABLE' => '<span class="alert">Valitettavasti emme hyväksy maksuja alueeltasi tällä hetkellä.</span><br>Ota yhteyttä vaihtoehtoisiin asiakaspalvelun',
     'TITLE_CONTINUE_CHECKOUT_PROCEDURE' => 'jatka vaiheeseen 3',
     'TEXT_CONTINUE_CHECKOUT_PROCEDURE' => '- tilauksen vahvistus.',
-    'TABLE_HEADING_CONDITIONS' => '<span class="termsconditions">>Ehdot</span>',
+    'TABLE_HEADING_CONDITIONS' => '<span class="termsconditions">Ehdot</span>',
     'TEXT_CONDITIONS_DESCRIPTION' => '<span class="termsdescription">Ole hyvä ja hyväksy tilausehdot ruksittamalla seuraava laatikko. Ehdot voit lukea <a href="' . zen_href_link(FILENAME_CONDITIONS) . '" rel="noopener" target="_blank"><span class="pseudolink">täältä</span></a>.</span>',
     'TEXT_CONDITIONS_CONFIRM' => '<span class="termsiagree">Olen lukenut ja hyväksynyt tilausehdot.</span>',
     'TEXT_YOUR_TOTAL' => 'Yhteensä',
