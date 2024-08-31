@@ -59,7 +59,7 @@ $define = [
     'ADDRESS_BOOK_TITLE' => 'Osoitekirjan sisältö',
     'PRIMARY_ADDRESS' => '(ensisijainen osoite)',
     'TEXT_MAXIMUM_ENTRIES' => '<span class="coming"><strong>HUOM:</strong></span> Osoitekirjassa voi olla enintään %s osoitetta.',
-    'TEXT_INFO_ADDRESS_BOOK_COUNT' => ' | <a href="%s">%s Kirjaukset</a>',
+    'TEXT_INFO_ADDRESS_BOOK_COUNT' => ' | <a href="%s">%s Osoitteet</a>',
     'TEXT_INFO_ADDRESS_BOOK_COUNT_SINGLE' => '',
     'EMP_BUTTON_PLACEORDER_ALT' => 'Tee tilaus tälle asiakkaalle',
     'EMP_BUTTON_PLACEORDER' => 'Tee tilaus',
