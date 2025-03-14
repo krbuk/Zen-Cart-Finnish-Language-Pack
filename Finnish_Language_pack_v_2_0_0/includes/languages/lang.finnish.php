@@ -457,7 +457,7 @@ $define = [
     'TEXT_MAXIMUM_CHARACTERS_ALLOWED' => ' kirjainta sallittu enintään',
     'TEXT_MORE_INFORMATION' => 'Saat lisätietoja vierailemalla tämän tuotteen sivulla <a href="%s" rel="noreferrer noopener" target="_blank">web-sivulle</a>.',
     'TEXT_NO_ALL_PRODUCTS' => 'Lisää tuotteita lisätään pian. Tarkista myöhemmin uudelleen.',
-    'TEXT_NO_CAT_RESTRICTIONS' => 'Tämä kuponki on voimassa kaikissa luokissa.',
+    'TEXT_NO_CAT_RESTRICTIONS' => 'Tämä kuponki on voimassa kaikissa tuoteryhmissä.',
     'TEXT_NO_CAT_TOP_ONLY_DENY' => 'Tällä kupongilla on erityisiä tuoterajoituksia.',
     'TEXT_NO_FEATURED_PRODUCTS' => 'Lisää suositeltuja tuotteita lisätään pian. Tarkista myöhemmin uudelleen.',
     'TEXT_NO_NEW_PRODUCTS' => 'Lisää uusia tuotteita lisätään pian. Tarkista myöhemmin uudelleen.',

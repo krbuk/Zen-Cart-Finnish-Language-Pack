@@ -8,7 +8,7 @@ $define = [
     'TEXT_SELECTED_PAYMENT_DESTINATION' => 'Tämä on nykyinen laskutusosoitteesi. Varmista että tiedot ovat oikein. Laskutusosoitetta ja korjaa osoite käyttämällä alla olevaa lomaketta jos tarvitsee.',
     'TITLE_PAYMENT_ADDRESS' => 'Laskutusosoite',
     'TITLE_PLEASE_SELECT' => 'Muuta tilauksen laskutusosoite',
-    'TABLE_HEADING_NEW_PAYMENT_ADDRESS' => '...ai valitse osoitekirjasta',
+    'TABLE_HEADING_NEW_PAYMENT_ADDRESS' => '...tai valitse osoitekirjasi merkinnöistä',
     'TITLE_CONTINUE_CHECKOUT_PROCEDURE' => 'Jatka',
     'TEXT_CONTINUE_CHECKOUT_PROCEDURE' => '- to maksutavan valinta.',
 ];
